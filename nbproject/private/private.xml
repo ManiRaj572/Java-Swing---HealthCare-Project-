@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/adminScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/LoginScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/RegisterScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/UpdateDoctorInformationsScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/Patient.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/doctorMyAppointmentsScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/PatientScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/Hospital.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/addDoctorScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/addHospitalScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/getAppointmentScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/MyAppointmentsScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/UpdateMyAppointmentsScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/MYSQLConnection.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/DoctorScreen.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/HospitalManagementSys.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/Doctor.java</file>
+            <file>file:/D:/Projects/Java/HospitalManagementSys/HospitalManagementSys-master/src/com/manage/UpdatePatientInformations.java</file>
+        </group>
+    </open-files>
+</project-private>
